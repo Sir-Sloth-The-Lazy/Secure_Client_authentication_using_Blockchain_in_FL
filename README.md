@@ -7,7 +7,6 @@ This phase builds upon:
 - **Phase 1**: Centralized Logistic Regression.
 - **Phase 2**: Federated Learning.
 
-Refer to previous phases for more details on dataset preprocessing (SMOTE, cross-validation) and federated learning concepts.
 
 ## Background
 Financial institutions currently use centralized models to analyze and predict financial outcomes like fraud detection and credit risk assessment. However, these models have limitations:
