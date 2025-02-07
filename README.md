@@ -145,12 +145,12 @@ python src/evaluate_global_model.py
 - Implemented **Federated Averaging (FedAvg)** algorithm.
 - Aggregation and evaluation of global model.
 
-#### **Phase 3A: Federated Learning with Blockchain**
+#### **Phase 3: Federated Learning with Blockchain**
 - **Integrates blockchain for secure model updates.**
 - **Implements transparency, trust, and decentralized verification.**
 - **Ensures integrity and traceability of updates.**
 
-#### **Phase 3B: Federated Learning with Zero-Knowledge Proofs (ZKPs)**
+#### **Phase 4: Federated Learning with Zero-Knowledge Proofs (ZKPs)**
 - Uses **ZKML (Zero-Knowledge Machine Learning)** for privacy-enhanced updates.
 - Allows institutions to **verify correctness without revealing data**.
 - Implements **PyZPK** for secure model verification.
@@ -162,4 +162,4 @@ python src/evaluate_global_model.py
 
 ---
 
-This **README** provides a comprehensive overview of Secure Client Authentication using Blockchain in Federated Learning, detailing background, execution steps, and results.
+
