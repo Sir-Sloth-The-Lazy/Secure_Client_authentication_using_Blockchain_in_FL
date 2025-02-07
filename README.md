@@ -1,4 +1,4 @@
-# Secure_Client_authentication_using_Blockchain_in_FL
+# Secure Client Authentication in Federated Learning
 
 Focus of This Phase
 The objective of this phase is to implement a federated learning framework where model updates from clients are submitted to a blockchain. The blockchain ensures the integrity and transparency of the updates before they are aggregated to form a global model.
