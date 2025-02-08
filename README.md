@@ -150,10 +150,6 @@ python src/evaluate_global_model.py
 - **Implements transparency, trust, and decentralized verification.**
 - **Ensures integrity and traceability of updates.**
 
-#### **Phase 4: Federated Learning with Zero-Knowledge Proofs (ZKPs)**
-- Uses **ZKML (Zero-Knowledge Machine Learning)** for privacy-enhanced updates.
-- Allows institutions to **verify correctness without revealing data**.
-- Implements **PyZPK** for secure model verification.
 
 ### **Overview of Technology Concepts**
 - **Logistic Regression**: Used for binary classification (fraud detection).
